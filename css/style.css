@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.timer{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.random-number{
+    margin-top: 100px;
+
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+li{
+    font-size: 3rem;
+    font-weight: bold;
+}
